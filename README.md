@@ -9,6 +9,7 @@
 ## How to navigate this project
 - Afterdownload, app can be accessed through the index.html file.
 - Responsive CSS using Sass preprocessor: [https://github.com/seankozen/interactive-photo-gallery/tree/main/scss]
+- JavaScript lightbox plugin baguetteBox.js: [https://github.com/feimosi/baguetteBox.js]
 
 ## Why I built the project this way
 - Sass includes a lot of flexibility and options when styling pages.
