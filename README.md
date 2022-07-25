@@ -7,7 +7,7 @@
 - I built this app based on sample images.
 
 ## How to navigate this project
-- Afterdownload, app can be accessed through the index.html file.
+- After download, app can be accessed through the index.html file.
 - Responsive CSS using Sass preprocessor: [https://github.com/seankozen/interactive-photo-gallery/tree/main/scss]
 - JavaScript lightbox plugin baguetteBox.js: [https://github.com/feimosi/baguetteBox.js]
 
